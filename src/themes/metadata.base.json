@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "key": "@base-accent",
+      "value": "rgba(38, 127, 181, 1)"
+    },
+    {
+      "key": "@base-warning",
+      "value": "rgba(255, 171, 64, 1)"
+    },
+    {
+      "key": "@base-danger",
+      "value": "rgba(229, 28, 35, 1)"
+    },
+    {
+      "key": "@base-success",
+      "value": "rgba(76, 175, 80, 1)"
+    }
+  ],
+  "baseTheme": "material.blue.light.compact",
+  "assetsBasePath": "../../../node_modules/devextreme/dist/css/",
+  "outputColorScheme": "arktika-scheme",
+  "makeSwatch": false,
+  "version": "19.2.5",
+  "widgets": []
+}
